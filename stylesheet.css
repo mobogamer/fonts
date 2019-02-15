@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'BenSenHandwriting';
+    src: url('hinted-BenSenHandwriting.eot');
+    src: url('hinted-BenSenHandwriting.eot?#iefix') format('embedded-opentype'),
+        url('hinted-BenSenHandwriting.woff2') format('woff2'),
+        url('hinted-BenSenHandwriting.woff') format('woff'),
+        url('hinted-BenSenHandwriting.ttf') format('truetype'),
+        url('hinted-BenSenHandwriting.svg#BenSenHandwriting') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
